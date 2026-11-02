@@ -1,0 +1,1 @@
+These are previously prepared visual design previews for reference. They are not captured browser-test evidence from this final code build. For assessment testing evidence, open the website locally or after deployment and capture your own screenshots of the running pages and interactions.
